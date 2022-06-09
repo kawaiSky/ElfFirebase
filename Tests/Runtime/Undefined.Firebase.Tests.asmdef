@@ -1,0 +1,11 @@
+{
+    "name": "Undefined.Firebase.Tests",
+    "references": [
+        "Undefined.Firebase"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

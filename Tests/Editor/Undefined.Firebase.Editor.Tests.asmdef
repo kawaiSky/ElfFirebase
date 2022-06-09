@@ -1,0 +1,14 @@
+{
+    "name": "Undefined.Firebase.Editor.Tests",
+    "references": [
+        "Undefined.Firebase.Editor",
+        "Undefined.Firebase"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
